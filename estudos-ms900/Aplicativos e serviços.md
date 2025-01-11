@@ -1,6 +1,8 @@
 # Descrição das ferramentas de produtividade
 
 ## Copilot
+![Descrição da Imagem](./images/copilot.png)
+
 É uma ferramenta de produtividade que ajuda usuários a melhorar suas habilidades e aumentar a eficiência em diversos aplicativos do microsoft 365. Aqui estão alguns dos principais recursos e benefícios do Copilot:
 
 ### 1.Assistência Inteligente:
