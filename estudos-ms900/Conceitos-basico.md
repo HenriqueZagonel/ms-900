@@ -68,6 +68,38 @@ Computação em nuvem, ou simplemente "nuvem", refere-se à entrega de serviçõ
 ### Nuvem Híbrida:
   - **Descrição**: Combina nuvens públicas e privadas, permitindo que dados e aplicações sejam compartilhadas entre elas.
   - **Exemplos**: Implantações que utilizem tanto nuvem privada como pública.
-  - **Benefícios**: Flexibilidade, permitindo que as organizações aproveitem a escalabilidade da nuvem pública enquanto mantêm a segurança e o controle da nuvem privada. Ideal para cargas de trabalho dinâmicas e mutáveis-.
-  - 
-  - 
+  - **Benefícios**: Flexibilidade, permitindo que as organizações aproveitem a escalabilidade da nuvem pública enquanto mantêm a segurança e o controle da nuvem privada. Ideal para cargas de trabalho dinâmicas e mutáveis.
+
+## Vantagens dos serviços em nuvem
+### Custo Reduzido:
+  - Economia de despesas de capital(capex)com hardware e infraestrutura.
+  - Modelo de pagamento conforme o uso(pay-as-you-go).
+### Escalabilidade:
+  - Fácil aumento ou diminuição de recursos conforme necessário.
+  - Capacidade de lidar com picos de demanda sem problemas.
+### Flexibilidade e Mobilidade:
+  - Acesso a dados e aplicativos de qualquer lugar com uma conexão à interneet.
+  - Suporte para trabalho remoto e colaboração.
+### Desempenho e confiabilidade:
+  - Infraestrutura de alta qualidade mantida por grandes provedores.
+  - Garantia de disponibilidade e backups automáticos.
+### Segurança:
+  - Provedores investem em medidas de segurança avançadas.
+  - Acesso a tecnologias de segurança mais recentes.
+### Inovação Rápida:
+  - Acesso a novas tecnologias e atualizações sem precisar fazer upgrades manuais.
+  - Capacidade de testar e implementar soluções rapidamente.
+## Desvantagens dos Serviços em Nuvem
+### Dependência de Conexão à Internet:
+  - Necessidade de uma conexão estável e rápida à internet para acessar serviços.
+  - Possíveis problemas de latência.
+### Controle Limitado:
+  - Menor controle sobre a infraestrutura subjacente.
+  - Dependência do provedor para manutenção e suporte.
+### Custo Contínuo:
+  - Custo de operação continuos que podem aumentar com o tempo.
+  - Possíveis surpresas com cobranças adicionais.
+### Downtime:
+  - Risco de interrupções de serviço devido a problemas no provedor.
+  - Dependência do provedor para resolver problemas rapidamente.
+
