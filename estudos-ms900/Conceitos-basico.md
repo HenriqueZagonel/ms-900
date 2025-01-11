@@ -32,4 +32,27 @@ Computação em nuvem, ou simplemente "nuvem", refere-se à entrega de serviçõ
 ## Responsabilidades
 ![Descrição da Imagem](./images/Responsabilidades.png)
 
+## Benéficios da computação em nuvem
+### Economia de de Custos: 
+  - Redução de despesas com hardware e manutenção;
+  - Pagamento apenas pelos recursos utilizados(modelo pay-as-you-go)
+  - Eliminação de custos associados a atualizações e manutenção de infraestrutura.
+### Escalabilidade:
+  - Capacidade de escalar rapidamente os recursos conforme a demanda.
+  - Facilita o crescimento da empresa sem grandes investimentos em infraestrutura.
+### Flexibilidade e Mobilidade:
+  - Acesso a recursos e dados de qualquer lugar, a qualquer momento, com uma conexão à internet.
+  - Facilita o trabalho remoto e a colaboração entre equipes distribuídas geograficamente.
+### Desempenho e Confiabilidade:
+  - Infraestrutura robusta e de alta performance fornecida por grandes provedores.
+  - Melhorias constantes em hardware e software, sem interrupções para o usuário.
+### Segurança:
+  - Implementações de segurança avançadas e atualizações automáticas.
+  - Provedores de nuvem investem pesadamente em segurança para proteger os dados dos clientes.
+### Recuperação de  desastres:
+  - Soluções integradas de backup e recuperação de desastres.
+  - Maior resiliência a falhas e perda de dados.
+### Inovação e Agilidade:
+  - Acesso rápido a novas tecnologias e ferramentas.
+  - Capacidade de experimentar e implementar novas soluções com rapidez.
 
