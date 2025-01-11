@@ -56,3 +56,18 @@ Computação em nuvem, ou simplemente "nuvem", refere-se à entrega de serviçõ
   - Acesso rápido a novas tecnologias e ferramentas.
   - Capacidade de experimentar e implementar novas soluções com rapidez.
 
+## Tipos de nuvem
+### Nuvem Pública:
+  - **Descrição**: A infraestrutura de nuvem é propriedade de um provedor de serviços de nuvem e é oferecido ao público em geral ou a uma grande indústria.
+  - **Exemplos**: Microsoft Azure, Amazon Web Services(AWS), Google Cloud.
+  - **Benefícios**: Custo reduzido, alta escalabilidade e manutenção gerenciada pelo provedor.
+### Nuvem Privada:
+  - **Descrição**: A infraestrutura de nuvem é operada exclusivamente para uma única organização. Pode ser gerenciada pela própria organização ou por um terceiro e pode estar dentro do local(on-premises) ou fora do local.
+  - **Exemplos**: Nuvens privadas construídas com tecnologias como Microsoft Azure Stack, VMware.
+  - **Benefícios**: Maior controle e segurança, conformidade com regulamentos e personalização de acordo com as necessidade específicas da organização.
+### Nuvem Híbrida:
+  - **Descrição**: Combina nuvens públicas e privadas, permitindo que dados e aplicações sejam compartilhadas entre elas.
+  - **Exemplos**: Implantações que utilizem tanto nuvem privada como pública.
+  - **Benefícios**: Flexibilidade, permitindo que as organizações aproveitem a escalabilidade da nuvem pública enquanto mantêm a segurança e o controle da nuvem privada. Ideal para cargas de trabalho dinâmicas e mutáveis-.
+  - 
+  - 
