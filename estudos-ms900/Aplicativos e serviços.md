@@ -33,6 +33,8 @@
 
 
 ## Word
+![Descrição da Imagem](./images/word.png)
+
 Ferramenta de processamento de texoto mais poderosa e amplamente utilizadas. Ele oferece uma variedade de recursos que permitem a criação, edição e colaboração em documentos de forma eficiente. Aqui estão alguns dos principiais recursos relacionados à criação de conteúdos em tempo real:
 ### 1.Coautoria em Tempo Real:
   - Permite que várias pessoas trabalhem no mesmo documento simultaneamente.
@@ -62,7 +64,39 @@ Ferramenta de processamento de texoto mais poderosa e amplamente utilizadas. Ele
   - **Acessibilidade**: Documentos podem seer acessados e editados de qualquer lugar, facilitando o trabalho remoto.
   - **Segurança**: Salvamento na nuvem garante a segurança dos documentos e facilita a recuperação de versões anteriores.
 
-### Power point
+## Power point
+É uma ferramenta essencial para criar apresentações visuais dinâmicas e envolventes. Aqui estão alguns dos recursos mais importantes relacionados à criação do conteúdo em tempo real:
+### 1.Coautoria em  Tempo Real:
+  - Permite que várias pessoas trabalhem na mesmma apresentação ao mesmo tempoo.
+  - Atualizações feitas por colaboradores são visíveis instantaneamente, facilitando o trabalho em  equipe.
+### 2.Comentários e Feedback:
+  - Usuários podem adicionar comentários em slides específicos para fornecer feedback e sugestões.
+  - Colaboradores podem responder a comentários, facilitando a comunicação e a revisão do conteúdo.
+### 3.Integração com OneDrive e Sharepoint:
+  -Apresentações podem ser salvas na nuvem usando OneDrive ou Sharepoint, facilitando o acesso e a colaboração.
+  - Permite acessar e editar apresentações de qualquer lugar, a qualquer momento.
+### 4. Histórico de Versões:
+  - Mantém um registro de todas as alterações feitas na apresentação.
+  - Possibilita reverter para versões anteriores, se necessário, ajudando a gerenciar mudanças e revisões.
+### 5.Ferramentas de Design e Layout:
+  - Oferece uma variedade de tema e layouts pré-definidos para criar apresentações atraentes rapidamente.
+  - O PowerPoint Designer sugere automaticamente layouts e designs com base no conteúdo dos slides.
+### 6.Gráficos e Visualizações:
+  - Inclui uma ampla variedade de gráficos, tabelas e visualizações para apresentar dados de forma clara e impactante.
+  - Ferramentas como SmartArt ajudam  a criar diagramas e fluxogramas e fluxogramas facilmente.
+### 7.Transições e Animações:
+  - Possibilita a adição de transções e animações para tornar a apresentação mais dinâmica.
+  - Permite controlar o timing e a sequência das animações para um efeito profissional.
+### 8. Mídia e interatividade:
+  - Suporta a inserção de vídeos, áudios e outros tipos de mídia para enriquecer a apresentação.
+  - Permite a criação de slides interativos com links e botões de ação.
+### Benefícios da Criação de Conteúdo em Tempo Real no PowerPoint
+  - **Colaboração Eficiente**: Facilitando pela coautoria em tempo real e a integração com ferramentas de nuvem.
+  - **Feedback Instantâneo**: Comentários e feedback em tempo real ajudam a melhorar o conteúdo rapidamente.
+  - **Flexibilidade e Mobilidade**: Acesso e edição de apresentações de qualquer lugar, facilitando o trabalho remoto.
+  - **Flexibilidade e Mobilidade**: Acesso e edição de apresentações de qualquer lugar, facilitando o trabalho remoto.
+  - **Apresentações Profissionais**: Ferramentas de design e layout ajudam a criar apresentações visualmente atraentes e profissionais.
+  - **Engajamento do Público**: Recursos de Mídia e interatividade tornam as apresentações mais envolventes e impactantes.
 
 ### Excel
 
